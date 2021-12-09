@@ -1,2 +1,2 @@
-# Repo for a udemy course on Flutter
+# Repo of a Flutter student
 Flutter student repo.
